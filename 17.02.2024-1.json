@@ -1,0 +1,25 @@
+{
+    "name": "Anita Black",
+    "age": 70,
+    "address": {
+        "street": "Alex Oval",
+        "city": "North Rebeccaview",
+        "state": "Kentucky",
+        "zip": "80095"
+    },
+    "contact": {
+        "phone": "842.932.5893x2751",
+        "servicePhone": "800088008"
+    },
+    "birthday": "1955-05-07",
+    "ip": "32.3.134.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Design major amount according either too movie. See those finally. Center true serve grow far be situation.",
+        "bio": "Miss degree group professor stock. Such less despite person tell relationship statement. Option week on current individual."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
