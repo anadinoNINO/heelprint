@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Riley",
+    "age": 51,
+    "address": {
+        "street": "Gibson Well",
+        "city": "Brandonmouth",
+        "state": "North Carolina",
+        "zip": "74168"
+    },
+    "contact": {
+        "phone": "001-372-379-4711x441",
+        "servicePhone": "800418529"
+    },
+    "birthday": "1974-12-03",
+    "ip": "165.226.237.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Fast agent true management hotel require expert. Very old stand number south beautiful.",
+        "bio": "Benefit thousand table month reality chance reality. There street race threat without central policy.\nSocial as than the. Draw establish remember station test."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
