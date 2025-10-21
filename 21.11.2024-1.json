@@ -1,0 +1,25 @@
+{
+    "name": "Casey King",
+    "age": 8,
+    "address": {
+        "street": "Larsen Plains",
+        "city": "Holtburgh",
+        "state": "Utah",
+        "zip": "45662"
+    },
+    "contact": {
+        "phone": "691.392.7146x194",
+        "servicePhone": "800470750"
+    },
+    "birthday": "2017-19-05",
+    "ip": "170.178.51.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Story their time executive apply court sing.\nEveryone forget author ability service Mr. Plant policy quite yard value. Magazine feeling rather attention.",
+        "bio": "East five drive your area minute capital. Security base mouth everything determine election. Season line decade paper travel from chair remember."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
