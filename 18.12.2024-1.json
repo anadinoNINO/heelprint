@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Mcfarland",
+    "age": 40,
+    "address": {
+        "street": "Nancy Bridge",
+        "city": "Floresshire",
+        "state": "Michigan",
+        "zip": "87390"
+    },
+    "contact": {
+        "phone": "(665)393-7850",
+        "servicePhone": "800437769"
+    },
+    "birthday": "1985-01-02",
+    "ip": "118.229.52.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Half someone wide trip view present school. Take have issue serious most ahead teacher.\nLive serious develop six.\nWonder yard either. Oil project out growth your history.",
+        "bio": "Government tree reality pay claim soon policy. Life mind hear everybody newspaper simple. Until use war owner day business."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
