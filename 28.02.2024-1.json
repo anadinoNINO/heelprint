@@ -1,0 +1,25 @@
+{
+    "name": "Justin Hickman",
+    "age": 4,
+    "address": {
+        "street": "Robert Fork",
+        "city": "New Mark",
+        "state": "California",
+        "zip": "83483"
+    },
+    "contact": {
+        "phone": "+1-564-450-5238x473",
+        "servicePhone": "800496269"
+    },
+    "birthday": "2021-07-12",
+    "ip": "212.131.232.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge brother arrive possible against people plant usually. Congress store leg speak season spend. Small news value station class. Theory south Mrs money role then realize couple.",
+        "bio": "Interview require network today soon piece wide modern. Impact stop wait heavy. Reveal to recently behind her cover respond."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
