@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Jenkins",
+    "age": 45,
+    "address": {
+        "street": "Ball Road",
+        "city": "Youngmouth",
+        "state": "North Carolina",
+        "zip": "34998"
+    },
+    "contact": {
+        "phone": "001-204-992-8194x8638",
+        "servicePhone": "800387597"
+    },
+    "birthday": "1980-16-07",
+    "ip": "76.136.77.81",
+    "foo": "bar",
+    "profile": {
+        "about": "American hospital sell. Until eye black take necessary central least. Work myself control doctor run rate. Answer energy detail wide develop section.",
+        "bio": "Join without box set everybody guy change. On imagine industry party house enter night.\nNearly whether speak institution arrive win benefit. Dinner only nice later."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
